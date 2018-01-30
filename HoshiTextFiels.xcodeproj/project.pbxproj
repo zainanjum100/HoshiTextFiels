@@ -12,6 +12,8 @@
 		4B0F5060202051AE00723EC0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B0F505E202051AE00723EC0 /* Main.storyboard */; };
 		4B0F5062202051AE00723EC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B0F5061202051AE00723EC0 /* Assets.xcassets */; };
 		4B0F5065202051AE00723EC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B0F5063202051AE00723EC0 /* LaunchScreen.storyboard */; };
+		4B0F506D202051D900723EC0 /* HoshiTextFiels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B0F506C202051D900723EC0 /* HoshiTextFiels.swift */; };
+		4B0F506F2020520D00723EC0 /* TextFieldEffects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B0F506E2020520D00723EC0 /* TextFieldEffects.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		4B0F5061202051AE00723EC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B0F5064202051AE00723EC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4B0F5066202051AE00723EC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B0F506C202051D900723EC0 /* HoshiTextFiels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoshiTextFiels.swift; sourceTree = "<group>"; };
+		4B0F506E2020520D00723EC0 /* TextFieldEffects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldEffects.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				4B0F5061202051AE00723EC0 /* Assets.xcassets */,
 				4B0F5063202051AE00723EC0 /* LaunchScreen.storyboard */,
 				4B0F5066202051AE00723EC0 /* Info.plist */,
+				4B0F506C202051D900723EC0 /* HoshiTextFiels.swift */,
+				4B0F506E2020520D00723EC0 /* TextFieldEffects.swift */,
 			);
 			path = HoshiTextFiels;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			files = (
 				4B0F505D202051AE00723EC0 /* ViewController.swift in Sources */,
 				4B0F505B202051AE00723EC0 /* AppDelegate.swift in Sources */,
+				4B0F506F2020520D00723EC0 /* TextFieldEffects.swift in Sources */,
+				4B0F506D202051D900723EC0 /* HoshiTextFiels.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
